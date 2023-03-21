@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "building",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3003" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": null, "osm_way_id": "485934045", "name": null, "type": null, "aeroway": null, "amenity": null, "admin_level": null, "barrier": null, "boundary": null, "building": "apartments", "craft": null, "geological": null, "historic": null, "land_area": null, "landuse": null, "leisure": null, "man_made": null, "military": null, "natural": null, "office": null, "place": null, "shop": null, "sport": null, "tourism": null, "other_tags": null, "layer": "map_19k61 multipolygons", "path": "C:/Users/Marco/Downloads/map_19k61.osm|layername=multipolygons", "BID": 15521 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 1681348.27232698048465, 4848786.286435980349779 ], [ 1681356.821187975583598, 4848798.912443032488227 ], [ 1681366.734518689103425, 4848794.547185885719955 ], [ 1681371.34584768069908, 4848792.327376974746585 ], [ 1681369.871401200536638, 4848789.975301751866937 ], [ 1681367.918482492677867, 4848786.854376301169395 ], [ 1681366.66807842021808, 4848784.85296833422035 ], [ 1681369.526671264553443, 4848783.107873851433396 ], [ 1681364.567868305603042, 4848776.192692136391997 ], [ 1681348.27232698048465, 4848786.286435980349779 ] ] ] ] } }
+]
+}
